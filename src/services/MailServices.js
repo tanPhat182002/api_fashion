@@ -10,7 +10,7 @@ class MailServices {
             service: 'gmail',
             auth: {
                 user: 'trantanphat2002@gmail.com',
-                pass: 'hzin kvun hexy wxfy' // Ensure you use a safe method to handle passwords.
+                pass: 'passss' // Ensure you use a safe method to handle passwords.
             }
         });
     }
